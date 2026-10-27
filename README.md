@@ -43,8 +43,8 @@ Four agent skills that share one project file (`.l10n.json`) and one glossary (`
 |---|---|---|
 | <img src="https://raw.githubusercontent.com/AppleBoiy/loc-translate/main/docs/logo.png" width="20" alt=""> **loc-translate** | free | Translates locale files without breaking tokens, comments or layout |
 | <img src="https://raw.githubusercontent.com/AppleBoiy/glossary-forge/main/docs/logo.png" width="20" alt=""> [glossary-forge](https://github.com/AppleBoiy/glossary-forge) | free | Mines a glossary from existing translations and finds inconsistent terms |
-| [loc-qa](https://www.agensi.io) | paid | Release check: broken tokens, structure, glossary, overflow, Thai particles — on one dashboard |
-| [loc-sync](https://www.agensi.io) | paid | After the original updates: new, changed (stale) and removed strings, with word diffs |
+| <img src="https://raw.githubusercontent.com/AppleBoiy/loc-translate/main/docs/kit/loc-qa/logo.png" width="20" alt=""> [loc-qa](https://www.agensi.io) | paid | Release check: broken tokens, structure, glossary, overflow, Thai particles — on one dashboard |
+| <img src="https://raw.githubusercontent.com/AppleBoiy/loc-translate/main/docs/kit/loc-sync/logo.png" width="20" alt=""> [loc-sync](https://www.agensi.io) | paid | After the original updates: new, changed (stale) and removed strings, with word diffs |
 
 Each skill also works on its own.
 
