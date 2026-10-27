@@ -1,0 +1,7 @@
+{
+  "welcome": "Welcome back, {name}!",
+  "files": "You have %d files",
+  "delete": "Delete <b>{file}</b>?",
+  "save": "Save",
+  "cancel": "Cancel"
+}

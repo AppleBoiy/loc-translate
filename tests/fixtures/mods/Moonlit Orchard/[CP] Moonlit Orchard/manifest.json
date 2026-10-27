@@ -1,0 +1,7 @@
+{
+  "Name": "[CP] Moonlit Orchard",
+  "Author": "Fixture",
+  "Version": "1.0.0",
+  "UniqueID": "Fixture.MoonlitOrchard",
+  "ContentPackFor": { "UniqueID": "Pathoschild.ContentPatcher" }
+}

@@ -1,0 +1,17 @@
+{
+    // Items
+    "MoonPear.Name": "Moon Pear",
+    "MoonPear.Description": "A pale pear that only ripens under the full moon.",
+    "StarJam.Name": "Starfruit Jam",
+
+    // Dialogue
+    "Mira.Intro": "Welcome to the orchard, @!#$b#I'm Mira. I look after the Moon Pear trees.$h",
+    "Mira.Gift": "A Moon Pear? For me?$h#$e#Thank you, @.",
+    "Mira.Rain": "The rain makes the Moon Pear trees glow.^The rain makes the Moon Pear trees glow, miss.",
+    "Mira.Night": "%The orchard is quiet tonight.",
+    "Quest.Objective": "Bring {Amount1} {Item1:LocalizedName} to Mira.",
+    "Mail.Gift": "Here are some seeds for you.%item object 388 5 %%[#]A gift from Mira",
+    "Config.Speed.Name": "Growth speed",
+    "Config.Speed.Desc": "How fast trees grow: {{Speed}}x",
+    "Placeholder": "---", //don't translate this, it is a placeholder
+}

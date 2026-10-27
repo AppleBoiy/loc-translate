@@ -1,0 +1,6 @@
+dist/
+__pycache__/
+*.pyc
+l10n/
+.l10n.json
+.DS_Store
